@@ -1,0 +1,48 @@
+Seria: ROWH Nr factura: 189904030198
+Data (Z, L, A) 13-12-2017
+
+Factura 4 2 3 9 5 9 4 4
+Furnizor: Dante International S.A. Cumparator(denumire, forma juridica)
+Nr. ord.registru com./an: J40/372/2002 Ielcean Bogdan
+C.I.F.: RO 14399840
+Capital social subscris si varsat: 1.310.243
+Cont: RO26 TREZ 7005 069X XX00 1637 Sediul Cluj Napoca, Cluj, Alexandru Vlahuta Bloc Lama F Ap.5 Cluj-Napoca
+Banca: Trezorerie si Contabilitate Publica a Municipiului -
+Bucuresti -
+BRD Sucursala Mari Clienti Corporativi (SMCC) Judetul Cluj
+RO38 BRDE 450S V883 7600 4500 Contul -
+Sediul: 148 Virtutii, E47, Sector 6, Bucuresti 060787 Banca -
+Tel: +40 21 200 52 00, fax: +40 21 200 52 25
+
+Nr. Denumirea produselor sau a serviciilor U.M. Cantitatea Pret unitar Cota Valoarea Valoarea
+crt. (fara T.V.A.) T.V.A. -lei- T.V.A.
+-lei- -%- -lei-
+0 1 2 3 4 5 6(3x4) 7(6x5)
+1 Procesor AMD RYZEN 3 1200, 3100MHz, 10MB, buc 1 397,20 19 397,20 75,47
+socket AM4, Box [YD1200BBAEBOX]
+
+2 Memorie Corsair ValueSelect 8GB DIMM, DDR4, buc 1 403,35 19 403,35 76,64
+2133 MHz, CL 15, 1.2V, Black
+[CMV8GX4M1A2133C15]
+
+3 Placa de baza Gigabyte AB350M-HD3, Socket buc 1 310,92 19 310,92 59,08
+AM4 [AB350M-HD3]
+
+4 Discount conform promotie: buc 1 -42,02 19 -42,02 -7,98
+CMV8GX4M1A2133C15 [DPRO1VAT19TYPE11]
+
+Conform art. 319 alin. (29) din Legea nr. 227/2015 privind Codul Fiscal, factura este valabila fara semnatura si stampila
+Plata numerar/POS ramburs, Plata numerar/POS cu bon fiscal/chitanta
+
+Semnatura si Date privind expeditia .....................................  Total din 19% 1.069,45  203,21
+stampila Numele delegatului Ielcean Bogdan care accize: Total 1.069,45 203,21
+furnizorului B.I./C.I. seria .... nr........... eliberat(a) ..............
+Mijlocul de transport ............. nr. .................... Semnatura de Total de plata
+primire (col 6+col 7)
+Expedierea s-a efectuat in prezenta noastra la  1.272,66
+data de ........................... ora ..............................
+Semnaturile ........................................................
+
+1/1
+
+Powered by TCPDF (www.tcpdf.org)
