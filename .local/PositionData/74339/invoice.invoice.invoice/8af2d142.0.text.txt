@@ -1,0 +1,84 @@
+Seria: ROWH
+
+Data (Z, L, A) 19-01-2021
+
+Nr factura: 219913252995
+
+Factura
+
+Furnizor: Dante International S.A.
+
+Nr. ord.registru com./an: J40/372/2002
+
+C.I.F.: RO 14399840
+
+Capital social subscris si varsat: 1.310.243
+
+Cont: RO26 TREZ 7005 069X XX00 1637
+
+Banca: Trezorerie si Contabilitate Publica a Municipiului Bucuresti
+
+BRD Sucursala Mari Clienti Corporativi (SMCC)
+
+RO38 BRDE 450S V883 7600 4500
+
+Sediul: 148 Virtutii, E47, Sector 6, Bucuresti 060787
+
+Tel: +40 21 200 52 00, fax: +40 21 200 52 25
+
+9 5 8 6 7 9 9 9
+
+Cumparator(denumire, forma juridica) Ielcean bogdan
+
+Sediul strada Mircea Eliade nr.45, bloc A, apartament 8 Cluj-Napoca - -
+
+Judetul Cluj
+
+Contul -
+
+Banca -
+
+Nr. Denumirea produselor sau a serviciilor U.M. Cantitatea Pret unitar Cota Valoarea Valoarea
+
+crt.
+
+(fara T.V.A.) T.V.A. -lei- -lei- -%-
+
+T.V.A. -lei-
+
+0 1 2 3 4 5 6(3x4) 7(6x5)
+
+1 Lumberjack, Ghete Chelsea din piele nabuc,            buc   1   462,18    19   462,18    87,81 
+Galben sofran, 40 [SW50503-001-D01-CG001-40]                                                     
+2 Set cutite de bucatarie Kring Pretoria, 7 piese, in   buc   1   142,85    19   142,85    27,14 
+suport, inox inoxidabil [EMAG282]                                                                
+3 HDD WD Blue 1TB, 7200rpm, 64MB cache, SATA            buc   1   184,87    19   184,87    35,12 
+III [WD10EZEX]                                                                                   
+4 Cost transport [TXTRANSPORT]                          buc   1   6,29      19   6,29      1,20  
+5 Discount conform promotie:                            buc   1   -294,12   19   -294,12   -55,88
+SW50503-001-D01-CG001-40                                                                         
+[DPRO1VAT20TYPE11]                                                                               
+6 Discount conform promotie: EMAG282                    buc   1   -84,87    19   -84,87    -16,13
+[DPRO1VAT20TYPE11]                                                                               
+7 Discount conform promotie: eMAG-WD10EZEX              buc   1   -27,71    19   -27,71    -5,26 
+[DPRO1VAT20TYPE11]                                                                               
+8 Discount Transport Client Genius                      buc   1   -6,29     19   -6,29     -1,20 
+[BeneficiuTransportGenius]                                                                       
+
+Conform art. 319 alin.
+(29) din Legea nr. 227/2015 privind Codul Fiscal, factura este valabila fara semnatura si stampila Plata card online
+
+Semnatura si Date privind expeditia ..................................... Total din 19% 383,20 72,80
+stampila Numele delegatului Ielcean bogdan care accize: Total 383,20 72,80 furnizorului B.I./C.I. seria .... nr........... eliberat(a) ..............
+Semnatura de Total de plata
+Mijlocul de transport ............. nr. .................... primire (col 6+col 7)
+
+Expedierea s-a efectuat in prezenta noastra la
+data de ........................... ora ..............................
+Semnaturile ........................................................
+
+456,00
+
+1/1
+
+PoweredbyTCPDF(www.tcpdf.org)

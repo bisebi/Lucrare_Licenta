@@ -28,6 +28,66 @@
           ]
         },
         {
+          "FieldId": "invoice.invoice.invoice.CUI",
+          "FieldName": "CUI",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "invoice.invoice.invoice.J",
+          "FieldName": "J",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "invoice.invoice.invoice.Nrfactura",
+          "FieldName": "Nr factura",
+          "IsMultiValue": false,
+          "Type": "Text",
+          "DeriveFieldsFormat": "",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
+          "FieldId": "invoice.invoice.invoice.Data",
+          "FieldName": "Data",
+          "IsMultiValue": false,
+          "Type": "Date",
+          "DeriveFieldsFormat": "day-month-year",
+          "Components": [],
+          "SetValues": [],
+          "Metadata": [
+            {
+              "Key": "RequiresReference",
+              "Value": "true"
+            }
+          ]
+        },
+        {
           "FieldId": "invoice.invoice.invoice.Totaldeplata",
           "FieldName": "Total de plata",
           "IsMultiValue": true,
@@ -170,21 +230,6 @@
               ]
             }
           ],
-          "SetValues": [],
-          "Metadata": [
-            {
-              "Key": "RequiresReference",
-              "Value": "true"
-            }
-          ]
-        },
-        {
-          "FieldId": "invoice.invoice.invoice.Nrfactura",
-          "FieldName": "Nr factura",
-          "IsMultiValue": false,
-          "Type": "Text",
-          "DeriveFieldsFormat": "",
-          "Components": [],
           "SetValues": [],
           "Metadata": [
             {

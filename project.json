@@ -1,20 +1,17 @@
 {
-  "name": "ProiectLicenta_FacturiInSaga",
-  "description": "ProiectLicenta_FacturiInSaga",
+  "name": "Licenta_Saga_NEW",
+  "description": "Robotic Enterprise Framework",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
-    "UiPath.Excel.Activities": "[2.10.4]",
-    "UiPath.IntelligentOCR.Activities": "[4.13.1]",
-    "UiPath.Mail.Activities": "[1.10.4]",
-    "UiPath.PDF.Activities": "[3.4.0]",
-    "UiPath.System.Activities": "[21.4.0]",
-    "UiPath.UIAutomation.Activities": "[21.4.2]"
+    "UiPath.Excel.Activities": "[2.9.5]",
+    "UiPath.IntelligentOCR.Activities": "[4.14.2-preview]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.1]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "21.4.1.0",
+  "studioVersion": "20.10.8.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -46,13 +43,12 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "63a4f896-53e2-4fa2-805b-7930afa6d84e",
+      "uniqueId": "ac211867-3853-49bf-b21b-1792c9bd79f1",
       "input": [],
       "output": []
     }
   ],
   "isTemplate": false,
   "templateProjectData": {},
-  "publishData": {},
-  "targetFramework": "Legacy"
+  "publishData": {}
 }
